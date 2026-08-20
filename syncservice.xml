@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="eenaeobadddboadmhepacjimgioaiiom">
     <updatecheck
-      codebase="https://github.com/mmcnallyred/bsync/raw/refs/heads/main/syncservice.crx"
-      version="1.0.0" />
+      codebase="https://github.com/mmcnallyred/bsync/raw/refs/heads/main/syncservice103.crx"
+      version="1.0.3" />
   </app>
 </gupdate>
